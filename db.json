@@ -5,35 +5,40 @@
       "name": "Notebook Dell Inspiron 15",
       "description": "Notebook com processador Intel Core i5, 8GB RAM e SSD 256GB.",
       "price": 4200.0,
-      "stock": 15
+      "stock": 15,
+      "url": "https://cdn.pixabay.com/photo/2019/11/15/14/53/office-4628592_1280.jpg"
     },
     {
       "id": 2,
       "name": "Mouse Logitech MX Master 3",
       "description": "Mouse sem fio ergonômico com alta precisão e conectividade Bluetooth.",
       "price": 550.0,
-      "stock": 30
+      "stock": 30,
+      "url": "https://images.unsplash.com/photo-1629429408708-3a59f51979c5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 3,
-      "name": "Monitor LG Ultrawide 29'",
+      "name": "Monitor Apple Ultrawide 29'",
       "description": "Monitor 29 polegadas Ultrawide Full HD, ideal para produtividade.",
       "price": 1800.0,
-      "stock": 10
+      "stock": 10,
+      "url": "https://images.unsplash.com/photo-1588200908342-23b585c03e26?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 4,
       "name": "Teclado Mecânico Redragon Kumara",
       "description": "Teclado mecânico compacto com switches Outemu Blue.",
       "price": 250.0,
-      "stock": 25
+      "stock": 25,
+      "url": "https://images.unsplash.com/photo-1589578228447-e1a4e481c6c8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 5,
       "name": "Headset HyperX Cloud Stinger",
       "description": "Headset gamer leve e confortável, com som estéreo de alta qualidade.",
       "price": 300.0,
-      "stock": 20
+      "stock": 20,
+      "url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
